@@ -1,0 +1,116 @@
+{
+  "introduction": "这里是lWaterLite，欢迎来到我的主页!\n喜欢打游戏、二次元、音乐和小众猎奇。\n\nLeap Out the World!",
+  "backgroundObject": [
+    {
+      "sideInfoText": {
+        "title": "pid: 97745300",
+        "content": "画师: HOSHIIWAI"
+      },
+      "backgroundUrl": "/background/97745300_p0.png"
+    },
+    {
+      "sideInfoText": {
+        "title": "AI Generated",
+        "content": "少女"
+      },
+      "backgroundUrl": "/background/00167.png"
+    },
+    {
+      "sideInfoText": {
+        "title": "pid: 98269511",
+        "content": "画师: HOSHIIWAI"
+      },
+      "backgroundUrl": "/background/98269511_p1.png"
+    },
+    {
+      "sideInfoText": {
+        "title": "学魔法的少女",
+        "content": "‘魔法真的好难学...’"
+      },
+      "backgroundUrl": "/background/1638087331855.png"
+    }
+  ],
+  "mediaList": [
+    {
+      "icoUrl": "/media/github.png",
+      "naviUrl": "https://github.com/lWaterLite"
+    },
+    {
+      "icoUrl": "/media/bilibili.png",
+      "naviUrl": "https://space.bilibili.com/11310332"
+    },
+    {
+      "icoUrl": "/media/steam.png",
+      "naviUrl": "https://steamcommunity.com/id/lwaterlite"
+    },
+    {
+      "icoUrl": "/media/email.png",
+      "naviUrl": "mailto:lwaterlite@126.com"
+    }],
+  "famous": [
+    {
+      "text": "狼啊，记住，\n犹豫就会败北。\n-《只狼：影逝二度》",
+      "fontSize": 24
+    },
+    {
+      "text": "有死而荣，无生而辱。\n-《只狼：影逝二度》",
+      "fontSize": 24
+    },
+    {
+      "text": "挺住会带来沉淀，\n沉淀会招致腐化。\n谨记行事奔流不息，切忌流连。\n-《艾尔登法环》",
+      "fontSize": 20
+    },
+    {
+      "text": "要我化身为非我的存在，绽放成花，\n我宁可就此腐化。\n-《艾尔登法环》",
+      "fontSize": 24
+    },
+    {
+      "text": "如果世界上没有黄金，\n我们早是英雄了。\n-《刺客信条：黑旗》",
+      "fontSize": 24
+    },
+    {
+      "text": "前进！前进！\n不择手段地前进!\n-《三体》",
+      "fontSize": 24
+    },
+    {
+      "text": "War,\nwar never changes.\n-《辐射4》",
+      "fontSize": 24
+    },
+    {
+      "text": "我忘记了所有悲剧，\n所见皆是奇迹。\n-《空洞骑士》",
+      "fontSize": 24
+    },
+    {
+      "text": "Long may the sunshine!\n-《黑暗之魂3》",
+      "fontSize": 24
+    }
+  ],
+  "regionName": ["艾泽拉斯", "啜泣半岛", "金刚山仙峰寺", "弗丹斯科", "浣熊市", "世界尽头", "山区结点城"],
+  "weatherRnd": ["晴 23°C 西北风2级", "阴 8°C 北风4级", "雾 16°C 东南风2级", "雪 -1°C 西风3级", "多云 12°C 东北风1级", "晴 34°C 西风1级"],
+  "applicationInfo": [
+    {
+      "title": "ImgLite",
+      "description": "ImgLite 是一个自建在线图床应用。",
+      "icon": "/application/imglite.png",
+      "link": "http://imglite.lwaterlite.cc/"
+    },
+    {
+      "title": "CodexLite",
+      "description": "CodexLite是一个基于WPF的桌面应用，它包含了监测硬件信息，代办清单和代码格式的功能。",
+      "icon": "/application/codexlite.png",
+      "link": "https://github.com/lWaterLite/CodexLite/"
+    },
+    {
+      "title": "Reference",
+      "description": "Reference是一个为开发人员分享的快速参考和备忘清单。",
+      "icon": "application/reference.png",
+      "link": "http://reference.lwaterlite.cc/"
+    },
+    {
+      "title": "ToolLite",
+      "description": "ToolLite是一个在线工具合集。",
+      "icon": "application/toollite.png",
+      "link": "http://toollite.lwaterlite.cc/"
+    }
+  ]
+}
